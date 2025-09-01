@@ -51,6 +51,10 @@ The Power BI dashboard is designed for dynamic analysis and includes:
 - **Detailed Data Page**: A page for drilling into transaction-level data.
 - **Measure Selector**: Allows switching between different KPIs.
 
+  ![Shopify Analysis_page-0001](https://github.com/user-attachments/assets/971179bd-0e66-488c-80c1-9ede2c7355a4)
+  ![Shopify Analysis_page-0002](https://github.com/user-attachments/assets/307393cb-4e43-47f3-b8ac-345792db2ebd)
+
+
 ## Insights / Project Outcome
 
 The project delivered an interactive dashboard providing clear visibility into sales and customer behavior.
