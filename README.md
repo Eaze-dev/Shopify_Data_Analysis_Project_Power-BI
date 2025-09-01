@@ -7,7 +7,7 @@ The goal is to analyze Shopify sales data to uncover insights into transaction p
 ## Dataset Used
 
 The analysis utilizes a comprehensive dataset of Shopify sales transactions.
-Dataset: 
+Dataset: https://github.com/Eaze-dev/Shopify_Data_Analytics_Project_Power-BI/blob/main/Shopify%20Sales.xlsx
 
 ## Key Questions (KPIs)
 
